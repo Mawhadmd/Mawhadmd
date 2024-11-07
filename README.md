@@ -1,8 +1,12 @@
-- 👋 Hello, and welcome to the profile of Mohammed Awad
-- 👀 Mohammed has experience in Python, Flask, PHP, Java, Javascript and its branches [Node js, React, Express], Rest APIs, HTML, CSS....
-- 🌱 And of course, experience !== proficient...
-- 💞️ Always Available for internships and small projects...
-- 📫 How to reach me? Figure it out
+👋 Welcome to Mohammed Awad's Profile!
+
+👀 I have hands-on experience in a range of technologies including Python, Flask, PHP, Java, JavaScript and its frameworks (Node.js, React, Express), REST APIs, HTML, and CSS.
+
+🌱 Proficient doesn’t mean perfect, and I’m always open to learning more!
+
+💼 Available for internships and small projects—let's build something great together!
+
+📫 How to reach me? Well, that’s part of the adventure—feel free to find out!
 
 <!---
 Mawhadmd/Mawhadmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
