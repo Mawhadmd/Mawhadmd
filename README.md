@@ -1,14 +1,14 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Mohammed Awad and I'm a Software Developer from earth</p>
+<p align="left">My name is Mohammed Awad and I'm a Software Developer from Earth </p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating bugs since 2022<br>
-📚 I'm currently learning Backend and JWT<br>
-🎯 Goals: Become the best version of myself<br>
-🎲 Fun fact: I seldom share my achievements
+Creating bugs since 2022<br>
+I'm currently learning Backend and JWT<br>
+Goals: Become the best version of myself<br>
+Fun fact: I seldom share my achievements
 </p>
 
 <h2 align="left">I code with</h2>
