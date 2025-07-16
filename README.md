@@ -6,7 +6,6 @@
 
 <p align="left">
 Creating bugs since 2022<br>
-I'm currently learning Backend and JWT<br>
 Goals: Become the best version of myself<br>
 Fun fact: I seldom share my achievements
 </p>
